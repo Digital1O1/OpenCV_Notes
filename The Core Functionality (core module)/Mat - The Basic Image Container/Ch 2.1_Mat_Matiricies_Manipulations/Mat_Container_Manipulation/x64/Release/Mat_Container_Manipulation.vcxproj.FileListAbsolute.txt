@@ -1,0 +1,1 @@
+E:\Coding Folder\Visual Studio Folder\OpenCV Tutorials\Mat - The Basic Image Container\Ch 2.1_Mat_Matiricies_Manipulations\Mat_Container_Manipulation\x64\Release\Mat_Container_Manipulation.exe

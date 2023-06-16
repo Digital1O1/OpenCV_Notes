@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 247 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mat_Container_Manipulation.vcxproj -> E:\Coding Folder\Visual Studio Folder\OpenCV Tutorials\Mat - The Basic Image Container\Ch 2.1_Mat_Matiricies_Manipulations\Mat_Container_Manipulation\x64\Release\Mat_Container_Manipulation.exe
