@@ -1,1 +1,2 @@
 E:\Coding Folder\Visual Studio Folder\OpenCV Tutorials\The Core Functionality (core module)\Scan Images Lookup Tables Time Measurements\Scan_Image_LookUp_Tables\x64\Release\Scan_Image_LookUp_Tables.exe
+E:\Coding Folder\Visual Studio Folder\OpenCV Notes\The Core Functionality (core module)\Scan Images Lookup Tables Time Measurements\Scan_Image_LookUp_Tables\x64\Release\Scan_Image_LookUp_Tables.exe

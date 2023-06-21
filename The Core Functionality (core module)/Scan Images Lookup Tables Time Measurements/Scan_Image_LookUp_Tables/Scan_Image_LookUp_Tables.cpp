@@ -1,4 +1,8 @@
 // Reference link : https://docs.opencv.org/4.x/db/da5/tutorial_how_to_scan_images.html
+/*
+    Use powershell --> Debug folder
+        - Then use this : .\Scan_Image_LookUp_Tables.exe "E:\Coding Folder\Visual Studio Folder\OpenCV Notes\The Core Functionality (core module)\Scan Images Lookup Tables Time Measurements\Scan_Image_LookUp_Tables\pepe_image.jpeg" 10
+*/
 
 #include <opencv2/core.hpp>
 #include <opencv2/core/utility.hpp>
@@ -6,6 +10,10 @@
 #include <opencv2/highgui.hpp>
 #include <iostream>
 #include <sstream>
+
+
+// g++ Scan_Image_LookUp_Tables.cpp -o scan_lookup_table -I E:/Coding Folder/OpenCV Folder/build/install/include/opencv2
+// E:\Coding Folder\OpenCV Folder\build\install\include\opencv2
 
 using namespace std;
 using namespace cv;
